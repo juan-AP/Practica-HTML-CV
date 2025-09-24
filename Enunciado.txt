@@ -1,0 +1,11 @@
+Proyecto HTML ^°0°^
+
+Realizar vuestro propio currículum personal (al Estilo Harvard) con HTML Semántico.
+
+Para el desarrollo del mismo, pueden emplear cualquiera de las etiquetas y conceptos vistos en clase. Como también pueden investigar por cuenta propia y si encuentran algo que les parezca conveniente agregar, son libres de hacerlo.
+
+Pueden emplear información real sobre ustedes mismos o colocar información ficticia... Incluso pueden crear el currículum que aspiran tener tras volverse programadores profesionales 🙂‍↔
+
+Una vez su proyecto esté listo, no olviden subirlo a GitHub y compartir el enlace para la revisión.
+
+Fecha de entrega: Clase del Mié. 24/09/2025
